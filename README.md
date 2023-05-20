@@ -1,5 +1,5 @@
 # Masters-Research
-List of personal papers related to master's research
+List of personal publications and benchmarking work related to master's research
 
 - VDBS: Publication submitted as part of the "Verifiable Database Systems" workshop by ACM SIGMOD
 - Benchmarking Groth16 Proving System
